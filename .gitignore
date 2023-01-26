@@ -2,3 +2,4 @@ build
 dist
 main.spec
 tkin.spec
+__pycache__

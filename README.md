@@ -1,4 +1,5 @@
 <h1>CounterForTop100</h1>
+<h1>CounterForTop100</h1>
 This app counts the number of participants and sorts by votes. It is needed in order to reveal the bests students.
 
 The following libraries were used in the project:

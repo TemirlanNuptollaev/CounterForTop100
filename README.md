@@ -22,3 +22,6 @@ The following libraries were used in the project:
         $ python -m pip install -r requirements.txt
         $ python main.py
 
+<div id="header" align="center">
+    <img src="https://raw.githubusercontent.com/TemirlanNuptollaev/Image/main/Screenshot%20(5).png" width="100"/>
+</div>

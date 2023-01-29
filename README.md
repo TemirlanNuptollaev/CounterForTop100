@@ -13,7 +13,7 @@ The following libraries were used in the project:
     <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
   
-To start the project:
+<h3>To start the project:</h3>
         
         <div>
         $ git clone https://github.com/TemirlanNuptollaev/CounterForTop100/

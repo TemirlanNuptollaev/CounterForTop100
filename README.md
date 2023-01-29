@@ -18,6 +18,7 @@ The following libraries were used in the project:
 <h3>To start the project:</h3>
         
         $ git clone https://github.com/TemirlanNuptollaev/CounterForTop100/
+        $ cd CounterForTop100
         $ python -m pip install -r requirements.txt
         $ python main.py
 

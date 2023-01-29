@@ -2,6 +2,7 @@
 This app counts the number of participants and sorts by votes. It is needed in order to reveal the bests students.
 
 The following libraries were used in the project:
+<br>
 <p>-request</p>
 <p>-beautyfullsoup</p>
 <p>-tkinter</p>

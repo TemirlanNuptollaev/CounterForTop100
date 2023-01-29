@@ -25,3 +25,7 @@ The following libraries were used in the project:
 <div id="header" align="center">
     <img src="https://raw.githubusercontent.com/TemirlanNuptollaev/Image/main/Screenshot%20(5).png" width="100%"/>
 </div>
+
+<div id="header" align="center">
+    <img src="https://raw.githubusercontent.com/TemirlanNuptollaev/Image/main/Screenshot%20(6).png" width="100%"/>
+</div>

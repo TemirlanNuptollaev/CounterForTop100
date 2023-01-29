@@ -23,5 +23,5 @@ The following libraries were used in the project:
         $ python main.py
 
 <div id="header" align="center">
-    <img src="https://raw.githubusercontent.com/TemirlanNuptollaev/Image/main/Screenshot%20(5).png" width="100"/>
+    <img src="https://raw.githubusercontent.com/TemirlanNuptollaev/Image/main/Screenshot%20(5).png" width="100%"/>
 </div>
